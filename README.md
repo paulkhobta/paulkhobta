@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Paul Khobta;
+- 👀 I’m interested in creating well designed webpages and web applications;
+- 🌱 I’m currently working with Angular (also working with HTML5, JavaScript, TypeScript, CSS);
+- 💞️ I am looking for a job as a Frontend Developer.
